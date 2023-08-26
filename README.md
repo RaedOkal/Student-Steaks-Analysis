@@ -18,5 +18,6 @@ Calculating User Streaks: The objective for this SQL project is to calculate eac
 
 
 
-Project requirements
+### Project requirements
+
 The Student Streaks Analysis with SQL project requires MySQL and Workbench 8.0 or higher on your computer.
